@@ -5,7 +5,7 @@ var taha = express();
 taha.get('/',function(req,res){
 
 res.send('taha is the best');
-/*res.sendFile(__dirname + '/index.html');*/
+/*res.sendFile(__dirname + '/html/index.html');*/
 
 });
 taha.listen(3000);
