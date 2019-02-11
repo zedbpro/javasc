@@ -1,0 +1,21 @@
+{
+  "scriots": {
+    "start": "node server.js"
+  },
+  "name": "taha",
+  "version": "0.0.1",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "i dont now",
+  "main": "server.js",
+  "keywords": [
+    "taha"
+  ],
+  "author": "",
+  "license": "ISC"
+}
